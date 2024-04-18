@@ -8,6 +8,9 @@
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>3.2.4</version>
         <relativePath/>
+
+
+        
     </parent>
     <groupId>rmartin.ctf</groupId>
     <artifactId>directory</artifactId>
